@@ -1,0 +1,57 @@
+TASK 5 Password Strength Evaluation Report
+
+
+PLATFORM         : Windows 10
+TOOLS USED       : passwordmeter.com
+OBJECTIVE        : Create multiple passwords with varying complexity and evaluate their strength using online tools
+
+STEPS:
+
+1. Created five passwords with varying complexity.
+2. Tested each password using PasswordMeter and other strength checkers.
+3. Recorded scores and feedback from each tool.
+4. Identified best practices for creating strong passwords.
+5. Wrote down tips learned from the evaluation.
+6. Researched common password attacks:
+   -Brute Force: Attempts every possible combination.
+   -Dictionary Attack: Uses known words and common passwords.
+   -Credential Stuffing: Reuses leaked credentials from breaches.
+7. Summarized how password complexity affects security.
+
+
+
+
+Scores and Feedback from Tools
+
+-12345@: Very Weak – predictable, short, lacks symbols.
+-orange@2025: Medium – better complexity, but still short.
+-0r@nge#123: Strong – good length, symbol diversity.
+-ApPlE@12345: Very Strong – long, unique, high entropy
+
+Best Practices for Strong Passwords
+
+Use at least 12–16 characters.
+Mix uppercase, lowercase, numbers, and symbols.
+Avoid dictionary words, names, or predictable patterns.
+Never reuse passwords across multiple accounts.
+Use a password manager to generate and store secure passwords.
+
+Password Complexity vs. Security
+
+Simple passwords are cracked in seconds using brute force or dictionary attacks.
+Medium complexity passwords offer some resistance but are still vulnerable.
+Strong passwords with high entropy and randomness are significantly harder to crack.
+Very strong passwords are nearly immune to automated attacks when combined with good account hygiene.
+
+
+
+
+
+SUMMARY
+------------------------------------------------------------
+
+In this task various combinations of passswords are created an tested in online tools fot their strengths and vulnerabilities, the best prcatices for creating a password and steps involved in the process.
+
+#Screenshots related to this Task are added to Task 6/resources
+
+
